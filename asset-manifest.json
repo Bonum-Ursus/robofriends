@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Bonum-Ursus/robofriends/static/css/main.df12e036.chunk.css",
-    "main.js": "/Bonum-Ursus/robofriends/static/js/main.4ffc09c8.chunk.js",
-    "main.js.map": "/Bonum-Ursus/robofriends/static/js/main.4ffc09c8.chunk.js.map",
-    "runtime-main.js": "/Bonum-Ursus/robofriends/static/js/runtime-main.4da8bea9.js",
-    "runtime-main.js.map": "/Bonum-Ursus/robofriends/static/js/runtime-main.4da8bea9.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/Bonum-Ursus/robofriends/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.b0983e84.chunk.js": "/Bonum-Ursus/robofriends/static/js/2.b0983e84.chunk.js",
-    "static/js/2.b0983e84.chunk.js.map": "/Bonum-Ursus/robofriends/static/js/2.b0983e84.chunk.js.map",
-    "index.html": "/Bonum-Ursus/robofriends/index.html",
-    "precache-manifest.2bf05439a68782c7832c605774dfbc27.js": "/Bonum-Ursus/robofriends/precache-manifest.2bf05439a68782c7832c605774dfbc27.js",
-    "service-worker.js": "/Bonum-Ursus/robofriends/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/Bonum-Ursus/robofriends/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.df12e036.chunk.css.map": "/Bonum-Ursus/robofriends/static/css/main.df12e036.chunk.css.map",
-    "static/js/2.b0983e84.chunk.js.LICENSE": "/Bonum-Ursus/robofriends/static/js/2.b0983e84.chunk.js.LICENSE",
-    "static/media/App.css": "/Bonum-Ursus/robofriends/static/media/Ordeal-Eroded-FFP.6a4ae4ec.woff"
+    "main.css": "/Bonum-Ursus/robofriends/tree/gh-pages/static/css/main.46e3bea4.chunk.css",
+    "main.js": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/main.70b3f0a4.chunk.js",
+    "main.js.map": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/main.70b3f0a4.chunk.js.map",
+    "runtime-main.js": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/runtime-main.c442b948.js",
+    "runtime-main.js.map": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/runtime-main.c442b948.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Bonum-Ursus/robofriends/tree/gh-pages/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.b0983e84.chunk.js": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/2.b0983e84.chunk.js",
+    "static/js/2.b0983e84.chunk.js.map": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/2.b0983e84.chunk.js.map",
+    "index.html": "/Bonum-Ursus/robofriends/tree/gh-pages/index.html",
+    "precache-manifest.d3a76a37f5c62b099a3834c0abb2cad7.js": "/Bonum-Ursus/robofriends/tree/gh-pages/precache-manifest.d3a76a37f5c62b099a3834c0abb2cad7.js",
+    "service-worker.js": "/Bonum-Ursus/robofriends/tree/gh-pages/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Bonum-Ursus/robofriends/tree/gh-pages/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.46e3bea4.chunk.css.map": "/Bonum-Ursus/robofriends/tree/gh-pages/static/css/main.46e3bea4.chunk.css.map",
+    "static/js/2.b0983e84.chunk.js.LICENSE": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/2.b0983e84.chunk.js.LICENSE",
+    "static/media/App.css": "/Bonum-Ursus/robofriends/tree/gh-pages/static/media/Ordeal-Eroded-FFP.6a4ae4ec.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.4da8bea9.js",
+    "static/js/runtime-main.c442b948.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.b0983e84.chunk.js",
-    "static/css/main.df12e036.chunk.css",
-    "static/js/main.4ffc09c8.chunk.js"
+    "static/css/main.46e3bea4.chunk.css",
+    "static/js/main.70b3f0a4.chunk.js"
   ]
 }
