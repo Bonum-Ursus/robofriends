@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Bonum-Ursus/robofriends/tree/gh-pages/static/css/main.46e3bea4.chunk.css",
-    "main.js": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/main.70b3f0a4.chunk.js",
-    "main.js.map": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/main.70b3f0a4.chunk.js.map",
-    "runtime-main.js": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/runtime-main.c442b948.js",
-    "runtime-main.js.map": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/runtime-main.c442b948.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/Bonum-Ursus/robofriends/tree/gh-pages/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.b0983e84.chunk.js": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/2.b0983e84.chunk.js",
-    "static/js/2.b0983e84.chunk.js.map": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/2.b0983e84.chunk.js.map",
-    "index.html": "/Bonum-Ursus/robofriends/tree/gh-pages/index.html",
-    "precache-manifest.d3a76a37f5c62b099a3834c0abb2cad7.js": "/Bonum-Ursus/robofriends/tree/gh-pages/precache-manifest.d3a76a37f5c62b099a3834c0abb2cad7.js",
-    "service-worker.js": "/Bonum-Ursus/robofriends/tree/gh-pages/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/Bonum-Ursus/robofriends/tree/gh-pages/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.46e3bea4.chunk.css.map": "/Bonum-Ursus/robofriends/tree/gh-pages/static/css/main.46e3bea4.chunk.css.map",
-    "static/js/2.b0983e84.chunk.js.LICENSE": "/Bonum-Ursus/robofriends/tree/gh-pages/static/js/2.b0983e84.chunk.js.LICENSE",
-    "static/media/App.css": "/Bonum-Ursus/robofriends/tree/gh-pages/static/media/Ordeal-Eroded-FFP.6a4ae4ec.woff"
+    "main.css": "/robofriends/static/css/main.77e3b051.chunk.css",
+    "main.js": "/robofriends/static/js/main.9da75b9f.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.9da75b9f.chunk.js.map",
+    "runtime-main.js": "/robofriends/static/js/runtime-main.03e2f00f.js",
+    "runtime-main.js.map": "/robofriends/static/js/runtime-main.03e2f00f.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robofriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.b0983e84.chunk.js": "/robofriends/static/js/2.b0983e84.chunk.js",
+    "static/js/2.b0983e84.chunk.js.map": "/robofriends/static/js/2.b0983e84.chunk.js.map",
+    "index.html": "/robofriends/index.html",
+    "precache-manifest.3ab689dac4e94435022da94469c201bf.js": "/robofriends/precache-manifest.3ab689dac4e94435022da94469c201bf.js",
+    "service-worker.js": "/robofriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robofriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.77e3b051.chunk.css.map": "/robofriends/static/css/main.77e3b051.chunk.css.map",
+    "static/js/2.b0983e84.chunk.js.LICENSE": "/robofriends/static/js/2.b0983e84.chunk.js.LICENSE",
+    "static/media/App.css": "/robofriends/static/media/Ordeal-Eroded-FFP.6a4ae4ec.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c442b948.js",
+    "static/js/runtime-main.03e2f00f.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.b0983e84.chunk.js",
-    "static/css/main.46e3bea4.chunk.css",
-    "static/js/main.70b3f0a4.chunk.js"
+    "static/css/main.77e3b051.chunk.css",
+    "static/js/main.9da75b9f.chunk.js"
   ]
 }
