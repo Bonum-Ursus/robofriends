@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7d718a3fffef55f270fe81cf3c69793",
+    "revision": "8fca6c5b531b060a9e8caaa7b39f76a7",
     "url": "/Bonum-Ursus/robofriends/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bonum-Ursus/robofriends/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "7d67d439e53678bec46d",
+    "revision": "7f38f28522fe4d5a4f82",
     "url": "/Bonum-Ursus/robofriends/static/css/main.df12e036.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Bonum-Ursus/robofriends/static/js/2.b0983e84.chunk.js.LICENSE"
   },
   {
-    "revision": "7d67d439e53678bec46d",
-    "url": "/Bonum-Ursus/robofriends/static/js/main.689602a0.chunk.js"
+    "revision": "7f38f28522fe4d5a4f82",
+    "url": "/Bonum-Ursus/robofriends/static/js/main.4ffc09c8.chunk.js"
   },
   {
     "revision": "51b6dd9bfe181005f56c",

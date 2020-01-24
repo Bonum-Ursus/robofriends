@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Bonum-Ursus/robofriends/precache-manifest.5e7d11ca28e1df1ec9a9492660e3feb9.js"
+  "/Bonum-Ursus/robofriends/precache-manifest.2bf05439a68782c7832c605774dfbc27.js"
 );
 
 self.addEventListener('message', (event) => {
